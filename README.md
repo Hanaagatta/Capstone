@@ -2,14 +2,18 @@
 
 This repository contains the capstone paper by Rebecca Chistol, which explores policy options for reducing the number of unsheltered homeless individuals in Las Vegas, Nevada. The paper includes a detailed analysis of the current situation, a literature review, and policy recommendations.
 
-## Table of Contents
+Table of Contents
 - [Introduction](#introduction)
-- [Assessment of the Problem](#assessment-of-the-problem)
-- [Literature Review](#literature-review)
+- [Project Structure](#project-structure)
+- [Data Description](#data-description)
+- [Excel Analysis](#excel-analysis)
+- [Power BI Reports](#power-bi-reports)
+- [Results and Visualizations](#results-and-visualizations)
 - [Policy Recommendations](#policy-recommendations)
 - [Conclusion](#conclusion)
-- [Files](#files)
-- [References](#references)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 The purpose of this memorandum is to explore ways to shelter more of the unsheltered homeless in Las Vegas. On February 1, 2020, an encampment ordinance (2019-36) was passed that mandates police officers to charge homeless people with a misdemeanor for camping or sleeping in all public places in Las Vegas...
